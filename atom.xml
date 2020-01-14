@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chunyan0315.github.io</id>
     <title>佳木繁阴</title>
-    <updated>2020-01-14T07:00:09.808Z</updated>
+    <updated>2020-01-14T07:02:48.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chunyan0315.github.io"/>
     <link rel="self" href="https://chunyan0315.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 佳木繁阴</rights>
     <entry>
         <title type="html"><![CDATA[2020年，勇于尝试]]></title>
-        <id>https://chunyan0315.github.io/post/jWY0VyilE</id>
-        <link href="https://chunyan0315.github.io/post/jWY0VyilE">
+        <id>https://chunyan0315.github.io/jWY0VyilE</id>
+        <link href="https://chunyan0315.github.io/jWY0VyilE">
         </link>
         <updated>2020-01-14T06:59:30.000Z</updated>
         <summary type="html"><![CDATA[<p>2020年，29岁的我，决定多多尝试新事物。</p>
@@ -33,8 +33,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[改变别人与被别人改变]]></title>
-        <id>https://chunyan0315.github.io/post/swJ61twXF</id>
-        <link href="https://chunyan0315.github.io/post/swJ61twXF">
+        <id>https://chunyan0315.github.io/swJ61twXF</id>
+        <link href="https://chunyan0315.github.io/swJ61twXF">
         </link>
         <updated>2019-12-31T10:00:38.000Z</updated>
         <content type="html"><![CDATA[<p>我觉得，不喜欢被人改变是每个人的自主权的表现。<br>
@@ -53,8 +53,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[12-31 我为什么没有要好的朋友]]></title>
-        <id>https://chunyan0315.github.io/post/qvhCToCVD</id>
-        <link href="https://chunyan0315.github.io/post/qvhCToCVD">
+        <id>https://chunyan0315.github.io/qvhCToCVD</id>
+        <link href="https://chunyan0315.github.io/qvhCToCVD">
         </link>
         <updated>2019-12-31T09:53:42.000Z</updated>
         <summary type="html"><![CDATA[<p>我没有要好的朋友。<br>
@@ -85,8 +85,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[为什么主动寻求挑战？]]></title>
-        <id>https://chunyan0315.github.io/post/wei-shi-me-zhu-dong-xun-qiu-tiao-zhan</id>
-        <link href="https://chunyan0315.github.io/post/wei-shi-me-zhu-dong-xun-qiu-tiao-zhan">
+        <id>https://chunyan0315.github.io/wei-shi-me-zhu-dong-xun-qiu-tiao-zhan</id>
+        <link href="https://chunyan0315.github.io/wei-shi-me-zhu-dong-xun-qiu-tiao-zhan">
         </link>
         <updated>2019-12-21T12:10:41.000Z</updated>
         <summary type="html"><![CDATA[<p>在图书馆待久了，会产生一个很大的问题，因为工作很轻松，会逃避其他略辛苦的事情。比如，单位组织秋游，有很多同事没去。因为相比秋游，工作反而轻松和规律。又比如去电影博物馆参观，也是比工作更累，很多同事也不去。</p>
