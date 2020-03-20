@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chunyan0315.github.io</id>
     <title>佳木繁阴</title>
-    <updated>2020-03-20T05:32:51.776Z</updated>
+    <updated>2020-03-20T05:54:53.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chunyan0315.github.io"/>
     <link rel="self" href="https://chunyan0315.github.io/atom.xml"/>
@@ -16,11 +16,14 @@
         <link href="https://chunyan0315.github.io/iUhVvGF1M/">
         </link>
         <updated>2020-03-20T05:30:36.000Z</updated>
-        <content type="html"><![CDATA[<p>[] 重来也不会好过现在<br>
-[] 如何写出一篇好文章<br>
-[] 如何戒掉坏习惯<br>
-[] 国家兴衰<br>
-[] 甲骨文 3.19-</p>
+        <content type="html"><![CDATA[<ol>
+<li>重来也不会好过现在</li>
+<li>如何写出一篇好文章</li>
+<li>如何戒掉坏习惯</li>
+<li>国家兴衰</li>
+<li>清醒思考的策略 3.8-</li>
+<li>甲骨文 3.19-</li>
+</ol>
 ]]></content>
     </entry>
     <entry>
