@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chunyan0315.github.io</id>
     <title>佳木繁阴</title>
-    <updated>2020-04-03T04:57:12.559Z</updated>
+    <updated>2020-04-03T04:58:56.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chunyan0315.github.io"/>
     <link rel="self" href="https://chunyan0315.github.io/atom.xml"/>
@@ -43,7 +43,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社交网站带我什么？]]></title>
+        <title type="html"><![CDATA[社交网站带给我什么？]]></title>
         <id>https://chunyan0315.github.io/pp2q08-nb/</id>
         <link href="https://chunyan0315.github.io/pp2q08-nb/">
         </link>
