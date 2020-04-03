@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chunyan0315.github.io</id>
     <title>佳木繁阴</title>
-    <updated>2020-04-03T02:42:16.172Z</updated>
+    <updated>2020-04-03T04:57:12.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chunyan0315.github.io"/>
     <link rel="self" href="https://chunyan0315.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://chunyan0315.github.io/images/avatar.png</logo>
     <icon>https://chunyan0315.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 佳木繁阴</rights>
+    <entry>
+        <title type="html"><![CDATA[2020 影视记录]]></title>
+        <id>https://chunyan0315.github.io/zV3xlN0xt/</id>
+        <link href="https://chunyan0315.github.io/zV3xlN0xt/">
+        </link>
+        <updated>2020-04-03T04:56:43.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>流星花园（沈月版）</li>
+<li>陈情令</li>
+<li>约会恋爱是什么呢</li>
+<li>交响情人梦</li>
+<li>原来你还在这里 电视剧版</li>
+<li>汉武大帝</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020 读书记录]]></title>
         <id>https://chunyan0315.github.io/iUhVvGF1M/</id>
